@@ -4,9 +4,16 @@ using namescpace std;
 
 int main()
 {
-cout<<"Hello world \n"
+
 
 hhjjjhggg
-l;l
+
+cout<<"Hello to all world \n";
+
+cout<<"New line: ";
+//fourth
+cout<<"third line\n";
+
+
   return 0;
 }
