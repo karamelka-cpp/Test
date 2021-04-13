@@ -8,6 +8,8 @@ cout<<"Hello world \n";
 
 cout<<"New line: ";
 
+cout<<"third line\n";
+
 
   return 0;
 }
