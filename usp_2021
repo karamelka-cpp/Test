@@ -5,5 +5,9 @@ using namescpace std;
 int main()
 {
 cout<<"Hello world \n";
+
+cout<<"New line: ";
+
+
   return 0;
 }
